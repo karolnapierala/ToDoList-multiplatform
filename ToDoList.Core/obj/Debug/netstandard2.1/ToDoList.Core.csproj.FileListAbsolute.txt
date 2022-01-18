@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\bin\Debug\netstandard2.1\ToDoList.Core.deps.json
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\bin\Debug\netstandard2.1\ToDoList.Core.dll
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\bin\Debug\netstandard2.1\ToDoList.Core.pdb
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\bin\Debug\netstandard2.1\ToDoList.Database.dll
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\bin\Debug\netstandard2.1\ToDoList.Database.pdb
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.csproj.Fody.CopyLocal.cache
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.csproj.CopyComplete
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.dll
+C:\Users\user\source\repos\ToDoListMobile\ToDoList.Core\obj\Debug\netstandard2.1\ToDoList.Core.pdb

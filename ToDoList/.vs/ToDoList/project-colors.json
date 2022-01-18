@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "990478fd-7da7-489a-ba4b-18e768cb4dda": {
+      "ProjectGuid": "990478fd-7da7-489a-ba4b-18e768cb4dda",
+      "DisplayName": "ToDoList",
+      "ColorIndex": 0
+    },
+    "0246e52e-65de-497c-b028-d9b9a48a5205": {
+      "ProjectGuid": "0246e52e-65de-497c-b028-d9b9a48a5205",
+      "DisplayName": "ToDoList.Core",
+      "ColorIndex": 1
+    },
+    "87ef3228-6811-49b1-8f79-1dc14f132534": {
+      "ProjectGuid": "87ef3228-6811-49b1-8f79-1dc14f132534",
+      "DisplayName": "ToDoList.Mobile.iOS",
+      "ColorIndex": 2
+    },
+    "4e45aa16-ef60-4c27-87d4-2dbe6a98851f": {
+      "ProjectGuid": "4e45aa16-ef60-4c27-87d4-2dbe6a98851f",
+      "DisplayName": "ToDoList.Mobile.Android",
+      "ColorIndex": 3
+    },
+    "eb95246c-ba70-4074-8b58-7efada1f329c": {
+      "ProjectGuid": "eb95246c-ba70-4074-8b58-7efada1f329c",
+      "DisplayName": "ToDoList.Mobile",
+      "ColorIndex": 4
+    },
+    "1eaa87dc-a741-4baa-8a77-2dde52ad107c": {
+      "ProjectGuid": "1eaa87dc-a741-4baa-8a77-2dde52ad107c",
+      "DisplayName": "ToDoList.Database",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

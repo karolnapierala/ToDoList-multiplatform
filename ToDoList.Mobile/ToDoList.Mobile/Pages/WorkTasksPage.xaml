@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:core="clr-namespace:ToDoList.Core;assembly=ToDoList.Core" x:DataType="core:WorkTasksPageViewModel"
+             xmlns:local="clr-namespace:ToDoList.Mobile"
+             x:Class="ToDoList.Mobile.WorkTasksPage">
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="To Do List" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Tasks for today:" FontSize="24" FontAttributes="Bold"/>
+        <ListView ItemsSource="{Binding WorkTaskList}" 
+                  HeightRequest="300"
+                  RowHeight="150">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <local:WorkTask/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Label Text="Title: "/>
+        <Entry Text="{Binding NewWorkTaskTitle, Mode=TwoWay}"/>
+        <Label Text="Description: "/>
+        <Entry Text="{Binding NewWorkTaskDescription, Mode=TwoWay}"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Text="Add" Command="{Binding AddNewTaskCommand}"/>
+            <Button Grid.Column="1" Text="Delete" Command="{Binding DeleteSelectedTasksCommand}"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>
